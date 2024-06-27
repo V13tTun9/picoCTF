@@ -19,7 +19,7 @@ Download the image here
 
 ![alt text](image-2.png)
 
-* Nhập lệnh ls ta thấy 1 file có tên outputSB.txt nghi ở trong này có flag ta dùng lệnh `grep` để tìm kiến cụm **picoCTF** trong file :
+* Nhập lệnh `ls` ta thấy 1 file có tên outputSB.txt nghi ở trong này có flag ta dùng lệnh `grep` để tìm kiến cụm **picoCTF** trong file :
 
 ![alt text](image-3.png)
 
